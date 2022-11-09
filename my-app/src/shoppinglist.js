@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 class ShoppingList extends React.Component {
   render() {
@@ -11,7 +11,7 @@ class ShoppingList extends React.Component {
           <li>Oculus</li>
         </ul>
       </div>
-    )
+    );
   }
 }
 
